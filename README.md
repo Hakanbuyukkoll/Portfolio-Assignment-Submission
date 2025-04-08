@@ -1,41 +1,45 @@
-# Welcome to My GitHub Profile
+# Welcome to My GitHub Portfolio
 
-Hello! I'm Mehmet Tuncer, a dedicated software developer. Below is a selection of my projects that showcase my skills and interests in various areas of software development.
+Hello! I'm Hakan Büyükkoll, a passionate software developer dedicated to crafting efficient and innovative solutions. Below is a selection of my projects that showcase my skills and interests across various domains of software development.
 
 ## Featured Projects
 
-### [Final Assignment Submission](https://github.com/MehmetTuncerr/Final-Assignment-Submission)
+### [Portfolio Assignment Submission](https://github.com/Hakanbuyukkoll/Portfolio-Assignment-Submission)
 
-This repository contains my final assignment, demonstrating the culmination of my learning and expertise in software development.
+This project serves as a comprehensive portfolio, encapsulating my journey and accomplishments in the realm of software development.
 
-### [ASP.NET MVC Entity Framework Assignment Part 4](https://github.com/MehmetTuncerr/ASP.NET-MVC-Entity-Framework-Assignment-Part-4)
+### [Final Assignment Submission](https://github.com/Hakanbuyukkoll/Final-Assignment-Submission)
 
-A project focusing on the integration of ASP.NET MVC with Entity Framework, highlighting best practices in web application development.
+A capstone project that demonstrates the culmination of my learning and expertise, reflecting my ability to tackle complex software challenges.
 
-### [Polymorphism Assignment](https://github.com/MehmetTuncerr/Polymorphism-Assignment)
+### [ASP.NET MVC Entity Framework Assignment Part 4](https://github.com/Hakanbuyukkoll/ASP.NET-MVC-Entity-Framework-Assignment-Part-4)
 
-An exploration of polymorphism concepts in object-oriented programming, with practical implementations and examples.
+An in-depth exploration of web application development using ASP.NET MVC in conjunction with Entity Framework, emphasizing best practices and design patterns.
 
-### [Operators Assignment Submission](https://github.com/MehmetTuncerr/Operators-Assignment-Submission)
+### [Polymorphism Assignment](https://github.com/Hakanbuyukkoll/Polymorphism-Assignment)
 
-This project delves into the use and functionality of various operators in programming, providing insightful examples and applications.
+A focused study on the principles of polymorphism within object-oriented programming, showcasing practical implementations and use cases.
 
-### [Method Class Assignment](https://github.com/MehmetTuncerr/Method-Class-Assignment)
+### [Operators Assignment](https://github.com/Hakanbuyukkoll/Operators-Assignment)
 
-A comprehensive look at methods within classes, emphasizing their design, implementation, and role in building robust applications.
+An analytical approach to understanding and utilizing various operators in programming, aimed at enhancing computational efficiency and code readability.
 
-### [The Tech Academy Basic C# Projects](https://github.com/MehmetTuncerr/The-Tech-Academy-Basic-C-Sharp-Projects.)
+### [Method Class Assignment](https://github.com/Hakanbuyukkoll/Method-Class-Assignment)
 
-A collection of foundational C# projects developed during my time at The Tech Academy, covering a range of basic to intermediate topics.
+A project that delves into the design and implementation of methods within classes, highlighting their role in building modular and maintainable codebases.
 
-### [Branching Assignment Submission](https://github.com/MehmetTuncerr/Branching-Assignment-Submission)
+### [The Tech Academy Basic C# Projects](https://github.com/Hakanbuyukkoll/The-Tech-Academy-Basic-C-Sharp-Projects.)
 
-This repository showcases my understanding and application of branching strategies in version control systems.
+A collection of foundational C# projects developed during my tenure at The Tech Academy, covering a spectrum of basic to intermediate programming concepts.
 
-### [YouTube Project](https://github.com/MehmetTuncerr/youtube-project)
+### [Branching Assignment Submission](https://github.com/Hakanbuyukkoll/Branching-Assignment-Submission)
 
-A project aimed at integrating YouTube functionalities, exploring API usage and multimedia content management.
+An exercise in version control strategies, demonstrating effective use of branching techniques to manage and streamline code development workflows.
+
+### [YouTube Website Project](https://github.com/Hakanbuyukkoll/youtube-web-site)
+
+A project focused on creating a responsive and user-friendly website interface, integrating multimedia content to enhance user engagement.
 
 ---
 
-Thank you for visiting my GitHub profile. Feel free to explore these repositories to get a deeper insight into my work and development journey.
+Thank you for visiting my GitHub portfolio. Feel free to explore these repositories to gain a deeper insight into my work and development journey. If you have any questions or collaboration ideas, please don't hesitate to reach out!
